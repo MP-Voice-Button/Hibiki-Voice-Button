@@ -577,601 +577,9 @@
             ]
         },
         {
-            "group_name": "misc_lyrics",
-            "group_description": {
-                "zh": "鳥噪音"
-            },
-            "voice_list": [
-                {
-                    "name": "6fe195a2d8db74855561fc3a34e25fed",
-                    "path": "misc_lyrics/Hibiki_Thats_Right.mp3",
-                    "description": {
-                        "zh": "Thats Right"
-                    },
-                    "updated_at": 1736250848
-                },
-                {
-                    "name": "0bac04cd183f49b9a7f06efddbd8d5a6",
-                    "path": "misc_lyrics/1_Hibiki_booba晚安_(Vocals).mp3",
-                    "description": {
-                        "zh": "booba晚安"
-                    },
-                    "updated_at": 1736260389
-                },
-                {
-                    "name": "e02ee58c49c08440001b6f941cbac8e7",
-                    "path": "misc_lyrics/Hibiki_first_time.mp3",
-                    "description": {
-                        "zh": "first time"
-                    },
-                    "updated_at": 1736250842
-                },
-                {
-                    "name": "40fea1e489f8bfc4a55fca531746af22",
-                    "path": "misc_lyrics/Hibiki_let_me_in.mp3",
-                    "description": {
-                        "zh": "let me in"
-                    },
-                    "updated_at": 1736250846
-                },
-                {
-                    "name": "9c571e1b45cf730bc2cea64c978d72d4",
-                    "path": "misc_lyrics/Hibiki_what.mp3",
-                    "description": {
-                        "zh": "what"
-                    },
-                    "updated_at": 1736250850
-                },
-                {
-                    "name": "4473640162f7958d3ef310370a52c63b",
-                    "path": "misc_lyrics/Hibiki_不行.mp3",
-                    "description": {
-                        "zh": "不行"
-                    },
-                    "updated_at": 1736250854
-                },
-                {
-                    "name": "f9e5ad17f0a9f7053a616d00156710d3",
-                    "path": "misc_lyrics/Hibiki_不行_咳嗽.mp3",
-                    "description": {
-                        "zh": "不行 咳嗽"
-                    },
-                    "updated_at": 1736250855
-                },
-                {
-                    "name": "e3220ff035fabd35703f5ef2a3854ea3",
-                    "path": "misc_lyrics/不要打擾小倆口約會.mp3",
-                    "description": {
-                        "zh": "不要打擾小倆口約會"
-                    },
-                    "updated_at": 1736250844
-                },
-                {
-                    "name": "fea6126eb82f4e8b6f9662880d8f520c",
-                    "path": "misc_lyrics/不要這樣啦.mp3",
-                    "description": {
-                        "zh": "不要這樣啦"
-                    },
-                    "updated_at": 1736250844
-                },
-                {
-                    "name": "a91aa8b64f70a85e47555c2499125670",
-                    "path": "misc_lyrics/亂講.mp3",
-                    "description": {
-                        "zh": "亂講"
-                    },
-                    "updated_at": 1736250860
-                },
-                {
-                    "name": "4ac8af7cc266208e9825ad04e7ad5e91",
-                    "path": "misc_lyrics/人家是變態.mp3",
-                    "description": {
-                        "zh": "人家是變態"
-                    },
-                    "updated_at": 1736250843
-                },
-                {
-                    "name": "eb059413d073ff97c00be441dc13bd98",
-                    "path": "misc_lyrics/什麼意思_嘿.mp3",
-                    "description": {
-                        "zh": "什麼意思 嘿"
-                    },
-                    "updated_at": 1736250844
-                },
-                {
-                    "name": "cb545129b75d4e72922b4aaa4fb81ee9",
-                    "path": "misc_lyrics/他怎麼會踹我.mp3",
-                    "description": {
-                        "zh": "他怎麼會踹我"
-                    },
-                    "updated_at": 1736250844
-                },
-                {
-                    "name": "7011db47ad496faf0d3279997fca7702",
-                    "path": "misc_lyrics/1_Hibiki_伊蓮_(Vocals).mp3",
-                    "description": {
-                        "zh": "伊蓮"
-                    },
-                    "updated_at": 1736260390
-                },
-                {
-                    "name": "c77e725ca6ac687e8a5e83637c4eebb0",
-                    "path": "misc_lyrics/你不要亂罵_我是狗.mp3",
-                    "description": {
-                        "zh": "你不要亂罵 我是狗"
-                    },
-                    "updated_at": 1736250845
-                },
-                {
-                    "name": "c00efa3c58596bade43ff1a94b2df4b2",
-                    "path": "misc_lyrics/你們不要再害我.mp3",
-                    "description": {
-                        "zh": "你們不要再害我"
-                    },
-                    "updated_at": 1736250846
-                },
-                {
-                    "name": "9a50cc1f9795899ad73bb73491dd0062",
-                    "path": "misc_lyrics/你怎麼捨得打你的推_等一下.mp3",
-                    "description": {
-                        "zh": "你怎麼捨得打你的推 等一下"
-                    },
-                    "updated_at": 1736250845
-                },
-                {
-                    "name": "549ded73e96621beec8fef204c406f64",
-                    "path": "misc_lyrics/你想打我的頭直接說可以嗎.mp3",
-                    "description": {
-                        "zh": "你想打我的頭直接說可以嗎"
-                    },
-                    "updated_at": 1736250846
-                },
-                {
-                    "name": "bcc5e4245ced3a83542edd7ee29a69db",
-                    "path": "misc_lyrics/Hibiki_你要學會如何可愛.mp3",
-                    "description": {
-                        "zh": "你要學會如何可愛"
-                    },
-                    "updated_at": 1736250855
-                },
-                {
-                    "name": "a6a178e90994aa5cc5ba0824470e833e",
-                    "path": "misc_lyrics/侯_偷吃豆腐.mp3",
-                    "description": {
-                        "zh": "侯 偷吃豆腐"
-                    },
-                    "updated_at": 1736250851
-                },
-                {
-                    "name": "37e6f68ea90c0392f4934a3b68a9ac5f",
-                    "path": "misc_lyrics/吼又_你們沒聽到啦.mp3",
-                    "description": {
-                        "zh": "吼又 你們沒聽到啦"
-                    },
-                    "updated_at": 1736250846
-                },
-                {
-                    "name": "a3b077815c65a0a0c2e9e7be3387f11d",
-                    "path": "misc_lyrics/哇_下面有變態啊.mp3",
-                    "description": {
-                        "zh": "哇 下面有變態啊"
-                    },
-                    "updated_at": 1736250851
-                },
-                {
-                    "name": "ad91a11a44e632f9ed376d2921aa5847",
-                    "path": "misc_lyrics/嚼嚼嚼_太大聲了是不是.mp3",
-                    "description": {
-                        "zh": "嚼嚼嚼 太大聲了是不是"
-                    },
-                    "updated_at": 1736236460
-                },
-                {
-                    "name": "402405b68388e45ae656263b098c76ea",
-                    "path": "misc_lyrics/Hibiki_多蝦你.mp3",
-                    "description": {
-                        "zh": "多蝦你"
-                    },
-                    "updated_at": 1736250855
-                },
-                {
-                    "name": "b911a161b43238f059bf1efb57a38a93",
-                    "path": "misc_lyrics/她把手機電話給我_她是不是喜歡我.mp3",
-                    "description": {
-                        "zh": "她把手機電話給我 她是不是喜歡我"
-                    },
-                    "updated_at": 1736250845
-                },
-                {
-                    "name": "b257f417f94ba88a91bb36a7c2d9db6f",
-                    "path": "misc_lyrics/她真的是個瘋女人_好讚喔.mp3",
-                    "description": {
-                        "zh": "她真的是個瘋女人 好讚喔"
-                    },
-                    "updated_at": 1736250845
-                },
-                {
-                    "name": "855ab598d75f10de7b1e935e660c8d62",
-                    "path": "misc_lyrics/好啦_我沒有皮.mp3",
-                    "description": {
-                        "zh": "好啦 我沒有皮"
-                    },
-                    "updated_at": 1736250858
-                },
-                {
-                    "name": "442a2475a5f750c6aa68f7b51b537c6c",
-                    "path": "misc_lyrics/委屈情勒鳥.mp3",
-                    "description": {
-                        "zh": "委屈情勒鳥"
-                    },
-                    "updated_at": 1736250850
-                },
-                {
-                    "name": "039281b25402e83df0f3d5c9145270d8",
-                    "path": "misc_lyrics/安安幾歲住哪.mp3",
-                    "description": {
-                        "zh": "安安幾歲住哪"
-                    },
-                    "updated_at": 1736250845
-                },
-                {
-                    "name": "098f645647619976b0d139be747efcb6",
-                    "path": "misc_lyrics/對手無寸鐵的弱雞開槍吧.mp3",
-                    "description": {
-                        "zh": "對手無寸鐵的弱雞開槍吧"
-                    },
-                    "updated_at": 1736250854
-                },
-                {
-                    "name": "f0f62c2cd5d73db6dbde5d255118da06",
-                    "path": "misc_lyrics/就說我們是商業青梅了.mp3",
-                    "description": {
-                        "zh": "就說我們是商業青梅了"
-                    },
-                    "updated_at": 1736250854
-                },
-                {
-                    "name": "463c2804c48f0de8a002b3810e345605",
-                    "path": "misc_lyrics/Hibiki_屁我才不相信你們.mp3",
-                    "description": {
-                        "zh": "屁我才不相信你們"
-                    },
-                    "updated_at": 1736250842
-                },
-                {
-                    "name": "9b82d950d4bb68ff80e5ca4372f1f767",
-                    "path": "misc_lyrics/很可愛_他把屁股給我打唉.mp3",
-                    "description": {
-                        "zh": "很可愛 他把屁股給我打唉"
-                    },
-                    "updated_at": 1736236959
-                },
-                {
-                    "name": "406e73d601712ca5b08329d90a194cd9",
-                    "path": "misc_lyrics/很帥的女生你不喜歡嗎.mp3",
-                    "description": {
-                        "zh": "很帥的女生你不喜歡嗎"
-                    },
-                    "updated_at": 1736250851
-                },
-                {
-                    "name": "615c8c94d9749b4a71b8dcfa638b6171",
-                    "path": "misc_lyrics/Hibiki_快讓我跟上一個人_我好想要跟蹤一個人喔.mp3",
-                    "description": {
-                        "zh": "快讓我跟上一個人 我好想要跟蹤一個人喔"
-                    },
-                    "updated_at": 1736236906
-                },
-                {
-                    "name": "2fe48ccfde7684472f6b49923e9334c8",
-                    "path": "misc_lyrics/我不會喝酒_(反串).mp3",
-                    "description": {
-                        "zh": "我不會喝酒 (反串)"
-                    },
-                    "updated_at": 1736250846
-                },
-                {
-                    "name": "31899c5dfa5b5208cd28d9535c8bd058",
-                    "path": "misc_lyrics/我不會喝酒_不會.mp3",
-                    "description": {
-                        "zh": "我不會喝酒 不會"
-                    },
-                    "updated_at": 1736250846
-                },
-                {
-                    "name": "7073a04fe34b18ea96f72d43ad6c3913",
-                    "path": "misc_lyrics/我們不是塑料姐妹嗎.mp3",
-                    "description": {
-                        "zh": "我們不是塑料姐妹嗎"
-                    },
-                    "updated_at": 1736250859
-                },
-                {
-                    "name": "22967c66ae829fc8442bb661fe191d59",
-                    "path": "misc_lyrics/我啥都沒做.mp3",
-                    "description": {
-                        "zh": "我啥都沒做"
-                    },
-                    "updated_at": 1736250848
-                },
-                {
-                    "name": "12ed6f44afd9111352eeeb7acc708b98",
-                    "path": "misc_lyrics/我就想打個人至於嗎.mp3",
-                    "description": {
-                        "zh": "我就想打個人至於嗎"
-                    },
-                    "updated_at": 1736250849
-                },
-                {
-                    "name": "977230878749f456f900bb4a43878b7c",
-                    "path": "misc_lyrics/我就是隻狗.mp3",
-                    "description": {
-                        "zh": "我就是隻狗"
-                    },
-                    "updated_at": 1736250849
-                },
-                {
-                    "name": "3f7894dc98006ba439d84be9ea0bed7b",
-                    "path": "misc_lyrics/我很帥你不喜歡我啊哈.mp3",
-                    "description": {
-                        "zh": "我很帥你不喜歡我啊哈"
-                    },
-                    "updated_at": 1736250847
-                },
-                {
-                    "name": "38b8bb176f249685527eaab9e7ba227a",
-                    "path": "misc_lyrics/我是兇猛的小動物.mp3",
-                    "description": {
-                        "zh": "我是兇猛的小動物"
-                    },
-                    "updated_at": 1736250847
-                },
-                {
-                    "name": "831148247c105675b77eefe9e7070b7b",
-                    "path": "misc_lyrics/我是可愛小動物.mp3",
-                    "description": {
-                        "zh": "我是可愛小動物"
-                    },
-                    "updated_at": 1736250859
-                },
-                {
-                    "name": "4a7ca5a0d2f05390eb31729bb8aa6baf",
-                    "path": "misc_lyrics/我是變態我不是狼請尊重.mp3",
-                    "description": {
-                        "zh": "我是變態我不是狼請尊重"
-                    },
-                    "updated_at": 1736250848
-                },
-                {
-                    "name": "1827f994e193078192f540b7477acf75",
-                    "path": "misc_lyrics/我沒有偷看.mp3",
-                    "description": {
-                        "zh": "我沒有偷看"
-                    },
-                    "updated_at": 1736250858
-                },
-                {
-                    "name": "39484d211ce9dc9e959c5c4c0b89fbfc",
-                    "path": "misc_lyrics/Hibiki_我沒有醉啦_我只是很開心而已.mp3",
-                    "description": {
-                        "zh": "我沒有醉啦 我只是很開心而已"
-                    },
-                    "updated_at": 1736250842
-                },
-                {
-                    "name": "cf56280379161d2943b39373c966c2d1",
-                    "path": "misc_lyrics/我當vtuber的原因.mp3",
-                    "description": {
-                        "zh": "我當vtuber的原因"
-                    },
-                    "updated_at": 1736250849
-                },
-                {
-                    "name": "1eeda9e750a108b067f33705a13d60c3",
-                    "path": "misc_lyrics/我的老天額太危險了.mp3",
-                    "description": {
-                        "zh": "我的老天額太危險了"
-                    },
-                    "updated_at": 1736250858
-                },
-                {
-                    "name": "878e67f8fca87d867f90aec15a044712",
-                    "path": "misc_lyrics/我真的要到了_挖塞.mp3",
-                    "description": {
-                        "zh": "我真的要到了 挖塞"
-                    },
-                    "updated_at": 1736250848
-                },
-                {
-                    "name": "c7bc1b324bd30c1b694498fad33e0ad1",
-                    "path": "misc_lyrics/我腦子肯定壞了.mp3",
-                    "description": {
-                        "zh": "我腦子肯定壞了"
-                    },
-                    "updated_at": 1736250849
-                },
-                {
-                    "name": "68940c4966f61df32fe21b462997da99",
-                    "path": "misc_lyrics/我覺得我像個笨蛋一樣.mp3",
-                    "description": {
-                        "zh": "我覺得我像個笨蛋一樣"
-                    },
-                    "updated_at": 1736250859
-                },
-                {
-                    "name": "69c22f5adf4a03287b3d0bcb1c048b0d",
-                    "path": "misc_lyrics/我超聰明.mp3",
-                    "description": {
-                        "zh": "我超聰明"
-                    },
-                    "updated_at": 1736250859
-                },
-                {
-                    "name": "b342c8c0e0e62da59f18782b84d75985",
-                    "path": "misc_lyrics/我都講了些啥.mp3",
-                    "description": {
-                        "zh": "我都講了些啥"
-                    },
-                    "updated_at": 1736251193
-                },
-                {
-                    "name": "8b4cdc534b111b94e92052f73627c40c",
-                    "path": "misc_lyrics/Hibiki_把你阿嬤賣掉.mp3",
-                    "description": {
-                        "zh": "把你阿嬤賣掉"
-                    },
-                    "updated_at": 1736250843
-                },
-                {
-                    "name": "491235bcfddb42ab45a50aa5a43af610",
-                    "path": "misc_lyrics/3_Hibiki_歐麥尬年輕人都這樣打招呼的_(Vocals).mp3",
-                    "description": {
-                        "zh": "歐麥尬年輕人都這樣打招呼的"
-                    },
-                    "updated_at": 1736260390
-                },
-                {
-                    "name": "c7660592ce8e5fac53a65ec5525509bf",
-                    "path": "misc_lyrics/沒有_你們看錯了.mp3",
-                    "description": {
-                        "zh": "沒有 你們看錯了"
-                    },
-                    "updated_at": 1736250850
-                },
-                {
-                    "name": "cf217f555fac5d4244587140b1cefae8",
-                    "path": "misc_lyrics/沒有人提醒我關麥.mp3",
-                    "description": {
-                        "zh": "沒有人提醒我關麥"
-                    },
-                    "updated_at": 1736250850
-                },
-                {
-                    "name": "301f8f8ad16df1ad6b163b3b94774b88",
-                    "path": "misc_lyrics/爐石戰紀只要會數到三_怎麼還是那麼難.mp3",
-                    "description": {
-                        "zh": "爐石戰紀只要會數到三 怎麼還是那麼難"
-                    },
-                    "updated_at": 1736250855
-                },
-                {
-                    "name": "bc466223a6fa6f719cf2b97e09a9cf3f",
-                    "path": "misc_lyrics/Hibiki_爽啦.mp3",
-                    "description": {
-                        "zh": "爽啦"
-                    },
-                    "updated_at": 1736250843
-                },
-                {
-                    "name": "cb908e4ce1e56beb099200c62921ace4",
-                    "path": "misc_lyrics/Hibiki_窩不要這個啦.mp3",
-                    "description": {
-                        "zh": "窩不要這個啦"
-                    },
-                    "updated_at": 1736250843
-                },
-                {
-                    "name": "32891d709c638d95bce75ead3f8799f5",
-                    "path": "misc_lyrics/等一下媽咪等一下什麼東西.mp3",
-                    "description": {
-                        "zh": "等一下媽咪等一下什麼東西"
-                    },
-                    "updated_at": 1736236371
-                },
-                {
-                    "name": "e9e71826de44ee644b62f0d9da8a5b46",
-                    "path": "misc_lyrics/算你倒楣_我就喜歡這一味.mp3",
-                    "description": {
-                        "zh": "算你倒楣 我就喜歡這一味"
-                    },
-                    "updated_at": 1736250854
-                },
-                {
-                    "name": "48a72bf9f6d8fd4c589974dcb7b5435c",
-                    "path": "misc_lyrics/聊天室喝什麼我都喝.mp3",
-                    "description": {
-                        "zh": "聊天室喝什麼我都喝"
-                    },
-                    "updated_at": 1736250851
-                },
-                {
-                    "name": "9c6dfe71aa866d8a805870f959f04903",
-                    "path": "misc_lyrics/腳底板抽筋.mp3",
-                    "description": {
-                        "zh": "腳底板抽筋"
-                    },
-                    "updated_at": 1736250854
-                },
-                {
-                    "name": "b63bea06023dacc58a129f72f0e9332c",
-                    "path": "misc_lyrics/Hibiki_芋頭口味爆米花_我不相信你找的到這種東西.mp3",
-                    "description": {
-                        "zh": "芋頭口味爆米花 我不相信你找的到這種東西"
-                    },
-                    "updated_at": 1736250843
-                },
-                {
-                    "name": "e3bb361cc085e595588bf198cff54f22",
-                    "path": "misc_lyrics/賺爛了.mp3",
-                    "description": {
-                        "zh": "賺爛了"
-                    },
-                    "updated_at": 1736250855
-                },
-                {
-                    "name": "d7d42e44809a0ac420c1240b2a5666e5",
-                    "path": "misc_lyrics/這個人功課給一半.mp3",
-                    "description": {
-                        "zh": "這個人功課給一半"
-                    },
-                    "updated_at": 1736250859
-                },
-                {
-                    "name": "bff12b0c5e49fbe3c7896d687bb5a71f",
-                    "path": "misc_lyrics/這個視角超好的.mp3",
-                    "description": {
-                        "zh": "這個視角超好的"
-                    },
-                    "updated_at": 1736250853
-                },
-                {
-                    "name": "7d272a007e0a224fac1b51767a94153d",
-                    "path": "misc_lyrics/這都是個啥.mp3",
-                    "description": {
-                        "zh": "這都是個啥"
-                    },
-                    "updated_at": 1736250859
-                },
-                {
-                    "name": "9c2fa7e6c6bcff74dbcaa13bac97d7a4",
-                    "path": "misc_lyrics/那個叫什麼tenga嗎.mp3",
-                    "description": {
-                        "zh": "那個叫什麼tenga嗎"
-                    },
-                    "updated_at": 1736237030
-                },
-                {
-                    "name": "0e044bfc0e2807bd8634ecbaa3a0a6e9",
-                    "path": "misc_lyrics/阿哈_他覺得我好老.mp3",
-                    "description": {
-                        "zh": "阿哈 他覺得我好老"
-                    },
-                    "updated_at": 1736250850
-                },
-                {
-                    "name": "d448312bfabf2152c2e20bb19489436f",
-                    "path": "misc_lyrics/Hibiki_鳥爆言1.mp3",
-                    "description": {
-                        "zh": "鳥爆言1"
-                    },
-                    "updated_at": 1736236915
-                }
-            ]
-        },
-        {
             "group_name": "noise",
             "group_description": {
-                "zh": "noise"
+                "zh": "鳥噪音"
             },
             "voice_list": [
                 {
@@ -1821,6 +1229,598 @@
                         "zh": "麥噹噹"
                     },
                     "updated_at": 1736180532
+                }
+            ]
+        },
+        {
+            "group_name": "misc_lyrics",
+            "group_description": {
+                "zh": "雜項語音"
+            },
+            "voice_list": [
+                {
+                    "name": "6fe195a2d8db74855561fc3a34e25fed",
+                    "path": "misc_lyrics/Hibiki_Thats_Right.mp3",
+                    "description": {
+                        "zh": "Thats Right"
+                    },
+                    "updated_at": 1736250848
+                },
+                {
+                    "name": "0bac04cd183f49b9a7f06efddbd8d5a6",
+                    "path": "misc_lyrics/1_Hibiki_booba晚安_(Vocals).mp3",
+                    "description": {
+                        "zh": "booba晚安"
+                    },
+                    "updated_at": 1736260389
+                },
+                {
+                    "name": "e02ee58c49c08440001b6f941cbac8e7",
+                    "path": "misc_lyrics/Hibiki_first_time.mp3",
+                    "description": {
+                        "zh": "first time"
+                    },
+                    "updated_at": 1736250842
+                },
+                {
+                    "name": "40fea1e489f8bfc4a55fca531746af22",
+                    "path": "misc_lyrics/Hibiki_let_me_in.mp3",
+                    "description": {
+                        "zh": "let me in"
+                    },
+                    "updated_at": 1736250846
+                },
+                {
+                    "name": "9c571e1b45cf730bc2cea64c978d72d4",
+                    "path": "misc_lyrics/Hibiki_what.mp3",
+                    "description": {
+                        "zh": "what"
+                    },
+                    "updated_at": 1736250850
+                },
+                {
+                    "name": "4473640162f7958d3ef310370a52c63b",
+                    "path": "misc_lyrics/Hibiki_不行.mp3",
+                    "description": {
+                        "zh": "不行"
+                    },
+                    "updated_at": 1736250854
+                },
+                {
+                    "name": "f9e5ad17f0a9f7053a616d00156710d3",
+                    "path": "misc_lyrics/Hibiki_不行_咳嗽.mp3",
+                    "description": {
+                        "zh": "不行 咳嗽"
+                    },
+                    "updated_at": 1736250855
+                },
+                {
+                    "name": "e3220ff035fabd35703f5ef2a3854ea3",
+                    "path": "misc_lyrics/不要打擾小倆口約會.mp3",
+                    "description": {
+                        "zh": "不要打擾小倆口約會"
+                    },
+                    "updated_at": 1736250844
+                },
+                {
+                    "name": "fea6126eb82f4e8b6f9662880d8f520c",
+                    "path": "misc_lyrics/不要這樣啦.mp3",
+                    "description": {
+                        "zh": "不要這樣啦"
+                    },
+                    "updated_at": 1736250844
+                },
+                {
+                    "name": "a91aa8b64f70a85e47555c2499125670",
+                    "path": "misc_lyrics/亂講.mp3",
+                    "description": {
+                        "zh": "亂講"
+                    },
+                    "updated_at": 1736250860
+                },
+                {
+                    "name": "4ac8af7cc266208e9825ad04e7ad5e91",
+                    "path": "misc_lyrics/人家是變態.mp3",
+                    "description": {
+                        "zh": "人家是變態"
+                    },
+                    "updated_at": 1736250843
+                },
+                {
+                    "name": "eb059413d073ff97c00be441dc13bd98",
+                    "path": "misc_lyrics/什麼意思_嘿.mp3",
+                    "description": {
+                        "zh": "什麼意思 嘿"
+                    },
+                    "updated_at": 1736250844
+                },
+                {
+                    "name": "cb545129b75d4e72922b4aaa4fb81ee9",
+                    "path": "misc_lyrics/他怎麼會踹我.mp3",
+                    "description": {
+                        "zh": "他怎麼會踹我"
+                    },
+                    "updated_at": 1736250844
+                },
+                {
+                    "name": "7011db47ad496faf0d3279997fca7702",
+                    "path": "misc_lyrics/1_Hibiki_伊蓮_(Vocals).mp3",
+                    "description": {
+                        "zh": "伊蓮"
+                    },
+                    "updated_at": 1736260390
+                },
+                {
+                    "name": "c77e725ca6ac687e8a5e83637c4eebb0",
+                    "path": "misc_lyrics/你不要亂罵_我是狗.mp3",
+                    "description": {
+                        "zh": "你不要亂罵 我是狗"
+                    },
+                    "updated_at": 1736250845
+                },
+                {
+                    "name": "c00efa3c58596bade43ff1a94b2df4b2",
+                    "path": "misc_lyrics/你們不要再害我.mp3",
+                    "description": {
+                        "zh": "你們不要再害我"
+                    },
+                    "updated_at": 1736250846
+                },
+                {
+                    "name": "9a50cc1f9795899ad73bb73491dd0062",
+                    "path": "misc_lyrics/你怎麼捨得打你的推_等一下.mp3",
+                    "description": {
+                        "zh": "你怎麼捨得打你的推 等一下"
+                    },
+                    "updated_at": 1736250845
+                },
+                {
+                    "name": "549ded73e96621beec8fef204c406f64",
+                    "path": "misc_lyrics/你想打我的頭直接說可以嗎.mp3",
+                    "description": {
+                        "zh": "你想打我的頭直接說可以嗎"
+                    },
+                    "updated_at": 1736250846
+                },
+                {
+                    "name": "bcc5e4245ced3a83542edd7ee29a69db",
+                    "path": "misc_lyrics/Hibiki_你要學會如何可愛.mp3",
+                    "description": {
+                        "zh": "你要學會如何可愛"
+                    },
+                    "updated_at": 1736250855
+                },
+                {
+                    "name": "a6a178e90994aa5cc5ba0824470e833e",
+                    "path": "misc_lyrics/侯_偷吃豆腐.mp3",
+                    "description": {
+                        "zh": "侯 偷吃豆腐"
+                    },
+                    "updated_at": 1736250851
+                },
+                {
+                    "name": "37e6f68ea90c0392f4934a3b68a9ac5f",
+                    "path": "misc_lyrics/吼又_你們沒聽到啦.mp3",
+                    "description": {
+                        "zh": "吼又 你們沒聽到啦"
+                    },
+                    "updated_at": 1736250846
+                },
+                {
+                    "name": "a3b077815c65a0a0c2e9e7be3387f11d",
+                    "path": "misc_lyrics/哇_下面有變態啊.mp3",
+                    "description": {
+                        "zh": "哇 下面有變態啊"
+                    },
+                    "updated_at": 1736250851
+                },
+                {
+                    "name": "ad91a11a44e632f9ed376d2921aa5847",
+                    "path": "misc_lyrics/嚼嚼嚼_太大聲了是不是.mp3",
+                    "description": {
+                        "zh": "嚼嚼嚼 太大聲了是不是"
+                    },
+                    "updated_at": 1736236460
+                },
+                {
+                    "name": "402405b68388e45ae656263b098c76ea",
+                    "path": "misc_lyrics/Hibiki_多蝦你.mp3",
+                    "description": {
+                        "zh": "多蝦你"
+                    },
+                    "updated_at": 1736250855
+                },
+                {
+                    "name": "b911a161b43238f059bf1efb57a38a93",
+                    "path": "misc_lyrics/她把手機電話給我_她是不是喜歡我.mp3",
+                    "description": {
+                        "zh": "她把手機電話給我 她是不是喜歡我"
+                    },
+                    "updated_at": 1736250845
+                },
+                {
+                    "name": "b257f417f94ba88a91bb36a7c2d9db6f",
+                    "path": "misc_lyrics/她真的是個瘋女人_好讚喔.mp3",
+                    "description": {
+                        "zh": "她真的是個瘋女人 好讚喔"
+                    },
+                    "updated_at": 1736250845
+                },
+                {
+                    "name": "855ab598d75f10de7b1e935e660c8d62",
+                    "path": "misc_lyrics/好啦_我沒有皮.mp3",
+                    "description": {
+                        "zh": "好啦 我沒有皮"
+                    },
+                    "updated_at": 1736250858
+                },
+                {
+                    "name": "442a2475a5f750c6aa68f7b51b537c6c",
+                    "path": "misc_lyrics/委屈情勒鳥.mp3",
+                    "description": {
+                        "zh": "委屈情勒鳥"
+                    },
+                    "updated_at": 1736250850
+                },
+                {
+                    "name": "039281b25402e83df0f3d5c9145270d8",
+                    "path": "misc_lyrics/安安幾歲住哪.mp3",
+                    "description": {
+                        "zh": "安安幾歲住哪"
+                    },
+                    "updated_at": 1736250845
+                },
+                {
+                    "name": "098f645647619976b0d139be747efcb6",
+                    "path": "misc_lyrics/對手無寸鐵的弱雞開槍吧.mp3",
+                    "description": {
+                        "zh": "對手無寸鐵的弱雞開槍吧"
+                    },
+                    "updated_at": 1736250854
+                },
+                {
+                    "name": "f0f62c2cd5d73db6dbde5d255118da06",
+                    "path": "misc_lyrics/就說我們是商業青梅了.mp3",
+                    "description": {
+                        "zh": "就說我們是商業青梅了"
+                    },
+                    "updated_at": 1736250854
+                },
+                {
+                    "name": "463c2804c48f0de8a002b3810e345605",
+                    "path": "misc_lyrics/Hibiki_屁我才不相信你們.mp3",
+                    "description": {
+                        "zh": "屁我才不相信你們"
+                    },
+                    "updated_at": 1736250842
+                },
+                {
+                    "name": "9b82d950d4bb68ff80e5ca4372f1f767",
+                    "path": "misc_lyrics/很可愛_他把屁股給我打唉.mp3",
+                    "description": {
+                        "zh": "很可愛 他把屁股給我打唉"
+                    },
+                    "updated_at": 1736236959
+                },
+                {
+                    "name": "406e73d601712ca5b08329d90a194cd9",
+                    "path": "misc_lyrics/很帥的女生你不喜歡嗎.mp3",
+                    "description": {
+                        "zh": "很帥的女生你不喜歡嗎"
+                    },
+                    "updated_at": 1736250851
+                },
+                {
+                    "name": "615c8c94d9749b4a71b8dcfa638b6171",
+                    "path": "misc_lyrics/Hibiki_快讓我跟上一個人_我好想要跟蹤一個人喔.mp3",
+                    "description": {
+                        "zh": "快讓我跟上一個人 我好想要跟蹤一個人喔"
+                    },
+                    "updated_at": 1736236906
+                },
+                {
+                    "name": "2fe48ccfde7684472f6b49923e9334c8",
+                    "path": "misc_lyrics/我不會喝酒_(反串).mp3",
+                    "description": {
+                        "zh": "我不會喝酒 (反串)"
+                    },
+                    "updated_at": 1736250846
+                },
+                {
+                    "name": "31899c5dfa5b5208cd28d9535c8bd058",
+                    "path": "misc_lyrics/我不會喝酒_不會.mp3",
+                    "description": {
+                        "zh": "我不會喝酒 不會"
+                    },
+                    "updated_at": 1736250846
+                },
+                {
+                    "name": "7073a04fe34b18ea96f72d43ad6c3913",
+                    "path": "misc_lyrics/我們不是塑料姐妹嗎.mp3",
+                    "description": {
+                        "zh": "我們不是塑料姐妹嗎"
+                    },
+                    "updated_at": 1736250859
+                },
+                {
+                    "name": "22967c66ae829fc8442bb661fe191d59",
+                    "path": "misc_lyrics/我啥都沒做.mp3",
+                    "description": {
+                        "zh": "我啥都沒做"
+                    },
+                    "updated_at": 1736250848
+                },
+                {
+                    "name": "12ed6f44afd9111352eeeb7acc708b98",
+                    "path": "misc_lyrics/我就想打個人至於嗎.mp3",
+                    "description": {
+                        "zh": "我就想打個人至於嗎"
+                    },
+                    "updated_at": 1736250849
+                },
+                {
+                    "name": "977230878749f456f900bb4a43878b7c",
+                    "path": "misc_lyrics/我就是隻狗.mp3",
+                    "description": {
+                        "zh": "我就是隻狗"
+                    },
+                    "updated_at": 1736250849
+                },
+                {
+                    "name": "3f7894dc98006ba439d84be9ea0bed7b",
+                    "path": "misc_lyrics/我很帥你不喜歡我啊哈.mp3",
+                    "description": {
+                        "zh": "我很帥你不喜歡我啊哈"
+                    },
+                    "updated_at": 1736250847
+                },
+                {
+                    "name": "38b8bb176f249685527eaab9e7ba227a",
+                    "path": "misc_lyrics/我是兇猛的小動物.mp3",
+                    "description": {
+                        "zh": "我是兇猛的小動物"
+                    },
+                    "updated_at": 1736250847
+                },
+                {
+                    "name": "831148247c105675b77eefe9e7070b7b",
+                    "path": "misc_lyrics/我是可愛小動物.mp3",
+                    "description": {
+                        "zh": "我是可愛小動物"
+                    },
+                    "updated_at": 1736250859
+                },
+                {
+                    "name": "4a7ca5a0d2f05390eb31729bb8aa6baf",
+                    "path": "misc_lyrics/我是變態我不是狼請尊重.mp3",
+                    "description": {
+                        "zh": "我是變態我不是狼請尊重"
+                    },
+                    "updated_at": 1736250848
+                },
+                {
+                    "name": "1827f994e193078192f540b7477acf75",
+                    "path": "misc_lyrics/我沒有偷看.mp3",
+                    "description": {
+                        "zh": "我沒有偷看"
+                    },
+                    "updated_at": 1736250858
+                },
+                {
+                    "name": "39484d211ce9dc9e959c5c4c0b89fbfc",
+                    "path": "misc_lyrics/Hibiki_我沒有醉啦_我只是很開心而已.mp3",
+                    "description": {
+                        "zh": "我沒有醉啦 我只是很開心而已"
+                    },
+                    "updated_at": 1736250842
+                },
+                {
+                    "name": "cf56280379161d2943b39373c966c2d1",
+                    "path": "misc_lyrics/我當vtuber的原因.mp3",
+                    "description": {
+                        "zh": "我當vtuber的原因"
+                    },
+                    "updated_at": 1736250849
+                },
+                {
+                    "name": "1eeda9e750a108b067f33705a13d60c3",
+                    "path": "misc_lyrics/我的老天額太危險了.mp3",
+                    "description": {
+                        "zh": "我的老天額太危險了"
+                    },
+                    "updated_at": 1736250858
+                },
+                {
+                    "name": "878e67f8fca87d867f90aec15a044712",
+                    "path": "misc_lyrics/我真的要到了_挖塞.mp3",
+                    "description": {
+                        "zh": "我真的要到了 挖塞"
+                    },
+                    "updated_at": 1736250848
+                },
+                {
+                    "name": "c7bc1b324bd30c1b694498fad33e0ad1",
+                    "path": "misc_lyrics/我腦子肯定壞了.mp3",
+                    "description": {
+                        "zh": "我腦子肯定壞了"
+                    },
+                    "updated_at": 1736250849
+                },
+                {
+                    "name": "68940c4966f61df32fe21b462997da99",
+                    "path": "misc_lyrics/我覺得我像個笨蛋一樣.mp3",
+                    "description": {
+                        "zh": "我覺得我像個笨蛋一樣"
+                    },
+                    "updated_at": 1736250859
+                },
+                {
+                    "name": "69c22f5adf4a03287b3d0bcb1c048b0d",
+                    "path": "misc_lyrics/我超聰明.mp3",
+                    "description": {
+                        "zh": "我超聰明"
+                    },
+                    "updated_at": 1736250859
+                },
+                {
+                    "name": "b342c8c0e0e62da59f18782b84d75985",
+                    "path": "misc_lyrics/我都講了些啥.mp3",
+                    "description": {
+                        "zh": "我都講了些啥"
+                    },
+                    "updated_at": 1736251193
+                },
+                {
+                    "name": "8b4cdc534b111b94e92052f73627c40c",
+                    "path": "misc_lyrics/Hibiki_把你阿嬤賣掉.mp3",
+                    "description": {
+                        "zh": "把你阿嬤賣掉"
+                    },
+                    "updated_at": 1736250843
+                },
+                {
+                    "name": "491235bcfddb42ab45a50aa5a43af610",
+                    "path": "misc_lyrics/3_Hibiki_歐麥尬年輕人都這樣打招呼的_(Vocals).mp3",
+                    "description": {
+                        "zh": "歐麥尬年輕人都這樣打招呼的"
+                    },
+                    "updated_at": 1736260390
+                },
+                {
+                    "name": "c7660592ce8e5fac53a65ec5525509bf",
+                    "path": "misc_lyrics/沒有_你們看錯了.mp3",
+                    "description": {
+                        "zh": "沒有 你們看錯了"
+                    },
+                    "updated_at": 1736250850
+                },
+                {
+                    "name": "cf217f555fac5d4244587140b1cefae8",
+                    "path": "misc_lyrics/沒有人提醒我關麥.mp3",
+                    "description": {
+                        "zh": "沒有人提醒我關麥"
+                    },
+                    "updated_at": 1736250850
+                },
+                {
+                    "name": "301f8f8ad16df1ad6b163b3b94774b88",
+                    "path": "misc_lyrics/爐石戰紀只要會數到三_怎麼還是那麼難.mp3",
+                    "description": {
+                        "zh": "爐石戰紀只要會數到三 怎麼還是那麼難"
+                    },
+                    "updated_at": 1736250855
+                },
+                {
+                    "name": "bc466223a6fa6f719cf2b97e09a9cf3f",
+                    "path": "misc_lyrics/Hibiki_爽啦.mp3",
+                    "description": {
+                        "zh": "爽啦"
+                    },
+                    "updated_at": 1736250843
+                },
+                {
+                    "name": "cb908e4ce1e56beb099200c62921ace4",
+                    "path": "misc_lyrics/Hibiki_窩不要這個啦.mp3",
+                    "description": {
+                        "zh": "窩不要這個啦"
+                    },
+                    "updated_at": 1736250843
+                },
+                {
+                    "name": "32891d709c638d95bce75ead3f8799f5",
+                    "path": "misc_lyrics/等一下媽咪等一下什麼東西.mp3",
+                    "description": {
+                        "zh": "等一下媽咪等一下什麼東西"
+                    },
+                    "updated_at": 1736236371
+                },
+                {
+                    "name": "e9e71826de44ee644b62f0d9da8a5b46",
+                    "path": "misc_lyrics/算你倒楣_我就喜歡這一味.mp3",
+                    "description": {
+                        "zh": "算你倒楣 我就喜歡這一味"
+                    },
+                    "updated_at": 1736250854
+                },
+                {
+                    "name": "48a72bf9f6d8fd4c589974dcb7b5435c",
+                    "path": "misc_lyrics/聊天室喝什麼我都喝.mp3",
+                    "description": {
+                        "zh": "聊天室喝什麼我都喝"
+                    },
+                    "updated_at": 1736250851
+                },
+                {
+                    "name": "9c6dfe71aa866d8a805870f959f04903",
+                    "path": "misc_lyrics/腳底板抽筋.mp3",
+                    "description": {
+                        "zh": "腳底板抽筋"
+                    },
+                    "updated_at": 1736250854
+                },
+                {
+                    "name": "b63bea06023dacc58a129f72f0e9332c",
+                    "path": "misc_lyrics/Hibiki_芋頭口味爆米花_我不相信你找的到這種東西.mp3",
+                    "description": {
+                        "zh": "芋頭口味爆米花 我不相信你找的到這種東西"
+                    },
+                    "updated_at": 1736250843
+                },
+                {
+                    "name": "e3bb361cc085e595588bf198cff54f22",
+                    "path": "misc_lyrics/賺爛了.mp3",
+                    "description": {
+                        "zh": "賺爛了"
+                    },
+                    "updated_at": 1736250855
+                },
+                {
+                    "name": "d7d42e44809a0ac420c1240b2a5666e5",
+                    "path": "misc_lyrics/這個人功課給一半.mp3",
+                    "description": {
+                        "zh": "這個人功課給一半"
+                    },
+                    "updated_at": 1736250859
+                },
+                {
+                    "name": "bff12b0c5e49fbe3c7896d687bb5a71f",
+                    "path": "misc_lyrics/這個視角超好的.mp3",
+                    "description": {
+                        "zh": "這個視角超好的"
+                    },
+                    "updated_at": 1736250853
+                },
+                {
+                    "name": "7d272a007e0a224fac1b51767a94153d",
+                    "path": "misc_lyrics/這都是個啥.mp3",
+                    "description": {
+                        "zh": "這都是個啥"
+                    },
+                    "updated_at": 1736250859
+                },
+                {
+                    "name": "9c2fa7e6c6bcff74dbcaa13bac97d7a4",
+                    "path": "misc_lyrics/那個叫什麼tenga嗎.mp3",
+                    "description": {
+                        "zh": "那個叫什麼tenga嗎"
+                    },
+                    "updated_at": 1736237030
+                },
+                {
+                    "name": "0e044bfc0e2807bd8634ecbaa3a0a6e9",
+                    "path": "misc_lyrics/阿哈_他覺得我好老.mp3",
+                    "description": {
+                        "zh": "阿哈 他覺得我好老"
+                    },
+                    "updated_at": 1736250850
+                },
+                {
+                    "name": "d448312bfabf2152c2e20bb19489436f",
+                    "path": "misc_lyrics/Hibiki_鳥爆言1.mp3",
+                    "description": {
+                        "zh": "鳥爆言1"
+                    },
+                    "updated_at": 1736236915
                 }
             ]
         }
