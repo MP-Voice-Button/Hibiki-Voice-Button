@@ -2,8 +2,8 @@
   "title": "【小響按鈕】",
   "description": "鳥聲迴響 會溫柔的安慰你再讓你PDF",
   "keywords": "Vtuber VoiceButton 響Hibiki 孤之界",
-  "url": "https://998-button.konnokai.me",
-  "social_image": "https://i.imgur.com/vOAsBZ3.png",
+  "url": "https://hibiki-button.konnokai.me",
+  "social_image": "/img/hibiki_laugh.png",
   "twitter_user": "@Kon_no_kai",
   "theme_color": "#f18465",
   "footer": {
@@ -21,7 +21,7 @@
         "link": "https://github.com/kujyonatsume"
       }
     ],
-    "repo_link": "https://github.com/konnokai/998-voice-button",
+    "repo_link": "https://github.com/MP-Voice-Button/Hibiki-Voice-Button",
     "content": "本站為愛好者作品，和{0}沒有關聯，其餘資訊請查看{1} & {2}",
     "content_params": [
       { "name": "響Hibiki" },
