@@ -19,7 +19,7 @@
         />
       </VCardText>
     </VCard>
-    <div class="h-4" />
+    <div class="h-4"></div>
     <VProgressCircular v-if="isSearching" indeterminate color="secondary" />
 
     <div
@@ -210,22 +210,22 @@ const doSearch = () => {
 
   isSearching.value = true;
 
-  filteredSounds.value = sounds.groups
-    .map((group) => {
-      const isGroupMatch = group.group_name.includes(search.value);
+  filteredSounds.value = sounds.groups.flatMap((group) => {
+    const isGroupMatch = group.group_name.includes(search.value);
 
-      const filteredVoiceList = group.voice_list.filter((voice) =>
-        voice.description.zh.includes(search.value)
-      );
+    const filteredVoiceList = group.voice_list.filter((voice) =>
+      voice.description.zh.includes(search.value)
+    );
 
-      return isGroupMatch || filteredVoiceList.length > 0
-        ? {
+    return isGroupMatch || filteredVoiceList.length > 0
+      ? [
+          {
             ...group,
             voice_list: filteredVoiceList
           }
-        : null;
-    })
-    .filter((group) => !!group);
+        ]
+      : [];
+  });
 
   isSearching.value = false;
 };
