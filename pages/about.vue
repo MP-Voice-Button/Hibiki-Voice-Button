@@ -24,8 +24,26 @@
               九条夏目
             </a>
           </li>
-          <li>音檔素材來源: 待定</li>
-          <li>圖檔素材來源: 待定</li>
+          <li>
+            調整模板:
+            <a class="link" href="https://x.com/Nekofoxtweet" target="_blank">
+              貓咪狐狸球
+            </a>
+          </li>
+          <li>
+            音檔素材來源: 秋哈士奇 (X:
+            <a class="link" href="https://x.com/AkiHuski_pon" target="_blank">
+              AkiHuski_pon
+            </a>
+            )
+          </li>
+          <li>
+            圖檔素材來源: 黑貓_ (X:
+            <a class="link" href="https://x.com/bkmeow_" target="_blank">
+              bkmeow_
+            </a>
+            )
+          </li>
         </ul>
       </VCardText>
     </VCard>
