@@ -24,6 +24,15 @@ type T_Link = {
   url: string;
 };
 
+/**
+ * 解析 icon.url，使其可以正確顯示本地或外部圖片
+ * @param url 圖片的 URL 或以public為母資料夾的路徑
+ * @returns 可在瀏覽器中使用的圖片 URL
+ */
+export const resolveIconUrl = (url: string): string => {
+  if (!url) return "";
+  return url.startsWith("http") ? url : url;
+};
 
 export const links: T_Link[][] = [
   [
@@ -33,7 +42,7 @@ export const links: T_Link[][] = [
         "name": "mdi-twitch",
       },
       "title": "Twitch",
-      "url": "https://www.twitch.tv/998rrr"
+      "url": "https://www.twitch.tv/hibiki_meridianproject"
     },
     {
       "icon": {
@@ -41,7 +50,7 @@ export const links: T_Link[][] = [
         "name": "mdi-youtube",
       },
       "title": "Youtube",
-      "url": "https://www.youtube.com/@998rrr"
+      "url": "https://www.youtube.com/@HibikiVtuber"
     },
     {
       "icon": {
@@ -49,7 +58,7 @@ export const links: T_Link[][] = [
         "name": "mdi-twitter",
       },
       "title": "Twitter",
-      "url": "https://twitter.com/998rrr_"
+      "url": "https://x.com/HibikiVtuberTW"
     },
     {
       "icon": {
@@ -57,7 +66,7 @@ export const links: T_Link[][] = [
         "name": "mdi-discord",
       },
       "title": "Discord",
-      "url": "https://discord.gg/R9eMxbN5Yq"
+      "url": "https://discord.gg/meridianprj"
     }
   ],
   [
@@ -81,6 +90,13 @@ export const links: T_Link[][] = [
       },
       "title": "租咪按鈕",
       "url": "https://yuzumi-button.konnokai.me/"
+    },
+    {
+      "icon": {
+        "url": "/favicon.ico"
+      },
+      "title": "玖玖巴按鈕",
+      "url": "https://998-button.konnokai.me/"
     }
   ]
 ]

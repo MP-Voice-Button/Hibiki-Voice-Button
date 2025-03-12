@@ -6,7 +6,7 @@
       </template>
       <VAppBarTitle>
         <div class="flex items-center">
-          <NuxtLink class="font-bold" to="/">【玖玖巴按鈕】</NuxtLink>
+          <NuxtLink class="font-bold" to="/">【小響按鈕】</NuxtLink>
         </div>
       </VAppBarTitle>
     </VAppBar>
@@ -32,14 +32,28 @@
           >
             <template #prepend>
               <div class="mr-8">
+                <!-- 使用 MDI Icon -->
                 <template v-if="link.icon?.name">
-                  <VIcon :color="link.icon?.color" width="24" height="24">
-                    {{ link.icon?.name }}
+                  <VIcon :color="link.icon.color" width="24" height="24">
+                    {{ link.icon.name }}
                   </VIcon>
                 </template>
-                <template v-else>
+
+                <!-- 顯示圖片 (本地或網路) -->
+                <template v-else-if="link.icon?.url">
+                  <VImg
+                    :src="resolveIconUrl(link.icon.url)"
+                    width="24"
+                    height="24"
+                    contain
+                    class="rounded-md"
+                  />
+                </template>
+
+                <!-- 顯示 Emoji -->
+                <template v-else-if="link.icon?.emoji">
                   <TwemojiParse class="text-xl">
-                    {{ link.icon?.emoji }}
+                    {{ link.icon.emoji }}
                   </TwemojiParse>
                 </template>
               </div>
@@ -89,7 +103,7 @@
 </template>
 
 <script setup lang="ts">
-import { links } from '~/assets/links';
+import { links, resolveIconUrl } from '~/assets/links';
 import site from './assets/locales/site.json';
 
 const isDrawerOpen = ref(false);
@@ -116,6 +130,6 @@ const parseContent = (content: string) => {
 }
 
 .footer :deep(a) {
-  @apply text-primary-500 underline;
+  @apply text-primary-400 underline;
 }
 </style>

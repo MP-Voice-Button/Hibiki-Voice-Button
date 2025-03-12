@@ -1,7 +1,7 @@
 {
-  "title": "【玖玖巴按鈕】",
-  "description": "就只是個狐仙按鈕網站",
-  "keywords": "VTuber VoiceButton 玖玖巴 孤之界",
+  "title": "【小響按鈕】",
+  "description": "鳥聲迴響 會溫柔的安慰你再讓你PDF",
+  "keywords": "Vtuber VoiceButton 響Hibiki 孤之界",
   "url": "https://998-button.konnokai.me",
   "social_image": "https://i.imgur.com/vOAsBZ3.png",
   "twitter_user": "@Kon_no_kai",
@@ -24,7 +24,7 @@
     "repo_link": "https://github.com/konnokai/998-voice-button",
     "content": "本站為愛好者作品，和{0}沒有關聯，其餘資訊請查看{1} & {2}",
     "content_params": [
-      { "name": "玖玖巴" },
+      { "name": "響Hibiki" },
       { "name": "關於", "link": "/about", "target": "" },
       {
         "name": "原始碼",

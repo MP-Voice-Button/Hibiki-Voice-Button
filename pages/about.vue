@@ -2,7 +2,7 @@
   <div>
     <VCard>
       <VCardTitle>
-        <span class="text-3xl">玖玖巴音效版</span>
+        <span class="text-3xl">響Hibiki音效版</span>
       </VCardTitle>
       <VCardText class="text-lg">
         <ul class="list-disc pl-6">
@@ -24,8 +24,8 @@
               九条夏目
             </a>
           </li>
-          <li>音檔素材來源: Twitch Clip、玖玖巴 Discord 音效板、茄子阿光</li>
-          <li>圖檔素材來源: 玖玖巴 Discord</li>
+          <li>音檔素材來源: 待定</li>
+          <li>圖檔素材來源: 待定</li>
         </ul>
       </VCardText>
     </VCard>
@@ -35,7 +35,7 @@
 
 <style scoped>
 .link {
-  @apply text-primary-500 underline;
+  @apply text-primary-400 underline;
 }
 
 ul * {
