@@ -93,7 +93,7 @@ export const links: T_Link[][] = [
     },
     {
       "icon": {
-        "url": "/favicon.ico"
+        "url": "/img/998.ico"
       },
       "title": "玖玖巴按鈕",
       "url": "https://998-button.konnokai.me/"
