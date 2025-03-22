@@ -74,7 +74,7 @@
       </template>
     </VNavigationDrawer>
 
-    <VMain class="bg-primary-200">
+    <VMain class="bg-not_material-background">
       <div class="flex flex-col h-full">
         <VContainer class="flex-1">
           <NuxtPage />
@@ -130,6 +130,6 @@ const parseContent = (content: string) => {
 }
 
 .footer :deep(a) {
-  @apply text-primary-400 underline;
+  @apply text-not_material-links underline;
 }
 </style>

@@ -33,7 +33,7 @@
       <VTab
         v-for="group in filteredSounds"
         :key="group.group_name"
-        class="text-secondary-600"
+        class="text-not_material-groups"
         @click="
           goTo(`#group-btn-${group.group_name}`, {
             offset: -100

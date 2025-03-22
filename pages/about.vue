@@ -53,7 +53,7 @@
 
 <style scoped>
 .link {
-  @apply text-primary-400 underline;
+  @apply text-not_material-links underline;
 }
 
 ul * {

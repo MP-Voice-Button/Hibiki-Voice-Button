@@ -11,7 +11,8 @@ export default {
         ...colors,
         neutral: theme.neutral,
         secondary: theme.secondary,
-        primary: theme.primary
+        primary: theme.primary,
+        not_material: theme.not_material
       }
     }
   }
